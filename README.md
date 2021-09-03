@@ -1,2 +1,2 @@
 # pruebarepositorio
-es una porueba de como funciona el repositorio
+es una prueba de como funciona el repositorio
